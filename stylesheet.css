@@ -121,21 +121,9 @@ html, body {
   
   .item {
     margin: 10px;
-    width: 200px;
+    width: 170px;
     height: 200px;
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   /*End Shop*/
   
@@ -177,13 +165,14 @@ html, body {
       background-color: #4F653E;
       overflow: hidden;
       margin-top: auto;
-      margin-bottom: 10px;    
+      margin-bottom: 10px; 
+        
   }
   
   .navbar1 ul li {
       float: right;
       display: block;
-      color: #171113;
+      color: #4F653E;
       text-decoration: bold;
       font-size: 17px; 
       padding: 15px;
